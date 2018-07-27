@@ -10,6 +10,6 @@ h3{
     font-family: 'Hanalei Fill', cursive;
 }
 
-p:nth-child(1){
+p:nth-of-type(n+2){
     text-align: right;
 }
